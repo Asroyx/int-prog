@@ -95,3 +95,4 @@ Bu kavram aynı HTTP gibi bir protokoldür. Açılımı “Secure Hyper Text Tra
 TCP/IP Protokolü nedir? <br>
 TCP protokolünün çalışma mantığı üç başlıkta incelenebilir. Birinci aşamada hedefe bir bağlantı isteği gönderilir. İkinci aşamada bağlantının gerçekleştiği onaylanır ve veri transferi başlar. Üçüncü aşamada ise veri transferinin tamamlandığı taraflara iletilerek bağlantı sonlandırılır. Bu üç aşamanın gerçekleşmesi ‘’State’’ işlemi olarak tanımlanır.
 
+Client Server arasındaki bağlantı nedir?
