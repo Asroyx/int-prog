@@ -63,7 +63,7 @@ Web sitesi tasarımında temel olarak kullanılan yazılımlar;
 
 <b>Maliyet</b><br>
 Web sitesinin taslağını çıkardıktan sonra site maliyetini çıkarmak için dikkate alınacaklar;
-Web sitesinin grafik olarak hazırlanması,
+Web sitesinin grafik olarak hazırlanması,<br>
 <a href="http://www.megep.meb.gov.tr/mte_program_modul/moduller_pdf/Tasar%C4%B1m%C4%B1n%20Temel%20%C4%B0lkeleri.pdf">Web sitenin html kodlamasını</a>
 
 
