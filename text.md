@@ -89,7 +89,6 @@ IP adresleri iki şekilde dağıtılmaktadır. Bunlar;
 
 DHCP (Dynamic Host Configuration Protocol): BOOTP protokolünün daha gelişmiş hali olan DHCP tam bir dinamik yapıdadır. DHCP sunucuyu kullanarak IP adresi alacak bütün bilgisayarların,otomatik olarak IP adresi alabilmesi için konfigürasyonları yapılmalıdır. 
 
-<br>
 HTTP ve HTTPS nedir arasındaki fark?
 Bu kavram aynı HTTP gibi bir protokoldür. Açılımı “Secure Hyper Text Transfer Protocol” olsa da dilimizde “Güvenli Metin Aktarma Protokolü” olarak biliniyor. Temelde iki protokol de aynı işi yapsa da HTTPS'de güvenlik öne çıkar. HTTP protokolüne SSL sertifikası eklenerek oluşur.
 
