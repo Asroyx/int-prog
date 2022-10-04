@@ -66,6 +66,15 @@ Web sitesinin taslağını çıkardıktan sonra site maliyetini çıkarmak için
 Web sitesinin grafik olarak hazırlanması,<br>
 <a href="http://www.megep.meb.gov.tr/mte_program_modul/moduller_pdf/Tasar%C4%B1m%C4%B1n%20Temel%20%C4%B0lkeleri.pdf">Web sitenin html kodlamasını</a>
 
+Web sitesinin Taslağı
+Sunulacak içerik kategorilerini oluşturma
+Hazırlanan web sitesinde içerikler, kategorilere ayrılmalı ve kullanıcıya düzenli bir şekilde sunulmalıdır.
+
+Ana Sayfa Düzeni
+Ana sayfa kullanıcının ilk karşılandığı yerdir. u yüzden düzenli olmalı, s,ten,n önemli bölümlerine tek tıklama ile ulaşılmasını sağlamalıdır. Ayrıca hızlı yüklenmesi gerekir.
+
+Sayfa içi yerleşim planı
+İçeriklerin verildiği bölüm web sitesinin iç sayfasıdır. İçeriğin
 
 
 
