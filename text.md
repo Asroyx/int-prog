@@ -61,6 +61,10 @@ Web sitesi tasarımında temel olarak kullanılan yazılımlar;
  <li>Web sitesindeki hata ve eksikleri bulmak için yardımcı programlar</li>
  </ul>
 
+<b>Maliyet</b><br>
+Web sitesinin taslağını çıkardıktan sonra site maliyetini çıkarmak için dikkate alınacaklar;
+Web sitesinin grafik olarak hazırlanması,
+Web sitenin html kodlamasını
 
 
 
