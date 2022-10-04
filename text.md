@@ -39,9 +39,29 @@ Temel olarak ürün tanıtımı, hizmet tanıtımı, kişisel web sayfaları haz
 Hizmet tanıtım sitesinde: Anasayfa, Hakkında, Hizmetler
 
 <b>Biçimsel Özellikler</b><br>
-Web sitesi tasarımı yaparken en önemli şeylerden biri sitenin görüntüsüdür. Bunun içi
-
-Biçimsel Özellikler
+Web sitesi tasarımı yaparken en önemli şeylerden biri sitenin görüntüsüdür. Birçok internet kullanıcısı sayfaya önce göz atar, sonra okur. Bu yüzden hazırlanan sayfa göz atmaya uygun olmalıdır. Başlıklar ve yazılar düzenli tutularak kısa özetler oluşturulabilir. İçerikte dikkat çekilmesi istenen yerler vurgulanmalıdır.
+<br>
+Web sayfasındaki neseneler sola ortaya sağa hizalanabilir.
+Resimleri ve yazıları hizlayarak sayfa örselliğinin düzeni sağlanabilir.
 Renk Dengesi
 Tasarlanan
+
+<b>Ses ve Görüntü Ekleme Prensipleri</b><br>
+Eklenen görüntülerin web tarayıcılar tarafından görüntülebebilir formatta olduğundan emin olunmalıdır. Web sayfalarında uzantısı jpg, gif, png olan görüntüler kullanılır. Aynı şekilde animasyonları göstermek için web tarayıcılarına bazı ek programlar eklenti yüklenmesi gereklidir. Her tarayıcıda animasyonları göstermek için gerekli eklentiler yüklenmiş olabilir. Kullanıcılar böyle bir durumda animasyonları göremezler.
+
+<b>Projede kullanılacak yazılımların belirlenmesi</b><br>
+Web sitesi tasarımında temel olarak kullanılan yazılımlar;
+
+<ul>
+ <li>Sayfasının grafik olarak tasarlanması için grafik yazılımı</li>
+ <li>Sayfaya eklenecek amblem, maskot gibi çizimler için vektör yazılımı,</li>
+ <li>Sayfaya eklenecek animasyonlar için animasyon yazılımı </li>
+ <li>Sayfanın kodlamasını yapmak için web tasarım editör yazılımı</li>
+ <li>Web sayfalarını görüntülemek için web tasaıyıcı programları</li>
+ <li>Web sitesindeki hata ve eksikleri bulmak için yardımcı programlar</li>
+ </ul>
+
+
+
+
 
