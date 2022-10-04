@@ -93,5 +93,6 @@ DHCP (Dynamic Host Configuration Protocol): BOOTP protokolünün daha gelişmiş
 HTTP ve HTTPS nedir arasındaki fark?
 Bu kavram aynı HTTP gibi bir protokoldür. Açılımı “Secure Hyper Text Transfer Protocol” olsa da dilimizde “Güvenli Metin Aktarma Protokolü” olarak biliniyor. Temelde iki protokol de aynı işi yapsa da HTTPS'de güvenlik öne çıkar. HTTP protokolüne SSL sertifikası eklenerek oluşur.
 
-
+TCP/IP Protokolü nedir?
+TCP protokolünün çalışma mantığı üç başlıkta incelenebilir. Birinci aşamada hedefe bir bağlantı isteği gönderilir. İkinci aşamada bağlantının gerçekleştiği onaylanır ve veri transferi başlar. Üçüncü aşamada ise veri transferinin tamamlandığı taraflara iletilerek bağlantı sonlandırılır. Bu üç aşamanın gerçekleşmesi ‘’State’’ işlemi olarak tanımlanır.
 
