@@ -76,5 +76,22 @@ Ana sayfa kullanıcının ilk karşılandığı yerdir. u yüzden düzenli olmal
 Sayfa içi yerleşim planı
 İçeriklerin verildiği bölüm web sitesinin iç sayfasıdır. İçeriğin
 
+İnternet
+İnternet dünya üzerideki birçok biglisayar sistemini TCP IP protokolü ile birbirine bağlayan ve her geçen gün daha fazla büyüyen bir iletişim ağıdır.
+
+IP Adreslerinin Dağıtılması 
+
+IP adresleri iki şekilde dağıtılmaktadır. Bunlar;
+
+1) Statik Adresleme: Bu işlem ile IP adresi manuel olarak verilir. Bilgisayara verilen IP adresinin o ağ segmenti içinde tekrar verilmemesine dikkat edilmelidir. Subnet Mask (Alt Ağ Maskesi) ve Default Gateway (Varsayılan Ağ Geçidi) doğru hesaplanmalıdır. Bir ağ segmenti içinde bulunan sunucu tabanlı bilgisayarlar çoğunlukla Statik Adresleme ile yapılandırılmaktadır. 
+
+2) Dinamik Adresleme: Bilgisayara, bulunduğu ağ segmenti içerisinde otomatik olarak verilen adrestir. Bu amaç için çoğunlukla DHCP server  ile dağıtımı yapılır. 
+
+DHCP (Dynamic Host Configuration Protocol): BOOTP protokolünün daha gelişmiş hali olan DHCP tam bir dinamik yapıdadır. DHCP sunucuyu kullanarak IP adresi alacak bütün bilgisayarların,otomatik olarak IP adresi alabilmesi için konfigürasyonları yapılmalıdır. 
+
+<br>
+HTTP ve HTTPS nedir arasındaki fark?
+Bu kavram aynı HTTP gibi bir protokoldür. Açılımı “Secure Hyper Text Transfer Protocol” olsa da dilimizde “Güvenli Metin Aktarma Protokolü” olarak biliniyor. Temelde iki protokol de aynı işi yapsa da HTTPS'de güvenlik öne çıkar. HTTP protokolüne SSL sertifikası eklenerek oluşur.
+
 
 
