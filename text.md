@@ -96,3 +96,4 @@ TCP/IP Protokolü nedir? <br>
 TCP protokolünün çalışma mantığı üç başlıkta incelenebilir. Birinci aşamada hedefe bir bağlantı isteği gönderilir. İkinci aşamada bağlantının gerçekleştiği onaylanır ve veri transferi başlar. Üçüncü aşamada ise veri transferinin tamamlandığı taraflara iletilerek bağlantı sonlandırılır. Bu üç aşamanın gerçekleşmesi ‘’State’’ işlemi olarak tanımlanır.
 
 Client Server arasındaki bağlantı nedir?
+https://f1r4t.com/dosyalar/C_Programlama_Dili.pdf
