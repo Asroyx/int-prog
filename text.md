@@ -97,3 +97,6 @@ TCP protokolünün çalışma mantığı üç başlıkta incelenebilir. Birinci 
 
 Client Server arasındaki bağlantı nedir?
 https://f1r4t.com/dosyalar/C_Programlama_Dili.pdf
+
+Sınavda sorulcak
+![Ekran Alıntısı](https://user-images.githubusercontent.com/90615063/198333451-a94d2296-9e1b-4b72-b75b-40f23a3eefab.PNG)
