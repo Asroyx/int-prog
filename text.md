@@ -101,3 +101,5 @@ http://www.megep.meb.gov.tr/mte_program_modul/moduller_pdf/Stil%20%C5%9Eablonu%2
 
 Sınavda sorulcak
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/90615063/198333451-a94d2296-9e1b-4b72-b75b-40f23a3eefab.PNG)
+![image](https://user-images.githubusercontent.com/90615063/199273997-8c020b26-a1a3-406c-9478-82a982c17ed7.png)
+
